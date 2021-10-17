@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jadwal dan Zoom Semester 1</title>
+  <style>
+    body {
+	font-style: arial;
+	text-align: center;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+p {
+	text-align: left;
+}
+
+table {
+	border-collapse: collapse;
+	width: 80%;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 10px;
+}
+
+.color1 {
+	background-color: yellow;
+}
+
+.align {
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 0;
+}
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
+
+a:hover {
+	color: white;
+}
+
+.tabel {
+	float: left;
+	box-sizing: border-box;
+	width: 100%;
+	margin-right: 0;
+}
+
+p {
+	float: right;
+	box-sizing: border-box;
+	position: relative;
+	top: 0px;
+}
+
+/* clearfix */
+.cf:before,
+.cf:after {
+    content: " "; 
+    display: table; 
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+  </style>
+</head>
+<body>
+	<div class="contain cf">
+		<h2>Jadwal dan Zoom Semester 1</h2>
+		<br> <br>
+		<div class="tabel">
+			<table>
+				<tr>
+					<th></th>
+					<th>Senin</th>
+					<th>Selasa</th>
+					<th>Rabu</th>
+					<th>Kamis</th>
+					<th>Jumat</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>07.00 - 08.40</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/95904775783?pwd=L0RiRGJnQzBzOC9yaFdtYU9pQW85Zz09">Click Here</a></td>
+					<td></td>
+					<td class="align">Aplikasi Teknologi dan Informasi</td>
+				</tr>
+				<tr>
+					<td>07.00 - 10.30</td>
+					<td></td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/97150629359?pwd=c0d0OUJpUjh3WjFyUXAvL0ZPQmNxUT09">Click Here</a></td>
+					<td></td>
+					<td></td>
+					<td class="align">Praktik Algoritma Pemrograman</td>
+				</tr>
+				<tr>
+					<td>08.50 - 10.30</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/95114630296?pwd=ak5QL20rL1pBUUloTVJZZ1hYQVY3QT09">Click Here</a></td>
+					<td class="align">Teknologi Berbasis Objek</td>
+				</tr>
+				<tr>
+					<td>08.50 - 10.30</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/98372438925?pwd=Y1J5a2l0Q0RtNGtRYUx3aUNuWUhOdz09">Click Here</a></td>
+					<td></td>
+					<td class="align">Basic English for Academic Purpose</td>
+				</tr>
+				<tr>
+					<td>09.40 - 12.10</td>
+					<td class="color1"><a href="https://zoom.us/j/95386521191?pwd=c0drNXI2N2I2eXNzMWdKL3BWd095Zz09">Click Here</a></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="align">Matematika dan Statistika Informatika</td>
+				</tr>
+				<tr>
+					<td>12.50 - 15.20</td>
+					<td></td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/98132404414?pwd=VXY2WmN5dm15NUVOc2lVbE4yaDVJQT09">Click Here</a></td>
+					<td></td>
+					<td></td>
+					<td class="align">Teori Algoritma Pemroggraman</td>
+				</tr>
+				<tr>
+					<td>14.40 - 16.20</td>
+					<td class="color1"><a href="https://zoom.us/j/92610339051?pwd=MmJzcCtURW95eThZdnFPWWkvVUpGZz09">Click Here</a></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="align">Pengembangan Kepribadian</td>
+				</tr>
+				<tr>
+					<td>14.40 - 16.20</td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/96484134851?pwd=NVFhVlk2OTZJQUw2bC9kTXByUVFxQT09">Click Here</a></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="align">Sistem Bilangan dan Logika Informatika</td>
+				</tr>
+				<tr>
+					<td>15.30 - 18.00</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="color1"><a href="https://zoom.us/j/96787426246?pwd=S3RuV1h6b1kzMlA0S1loL2h0SU9tQT09">Click Here</a></td>
+					<td></td>
+					<td class="align">Pengembangan Web dan Mobile</td>
+				</tr>
+			</table>
+		</div>
+		<p>*Click Here = Link Zoom</p>
+		<div class="sidebar">
+			
+		</div>
+	</div>
+</body>
+</html>
